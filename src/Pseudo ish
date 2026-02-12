@@ -1,0 +1,17 @@
+GuessNumberApp (MAIN)
+    Laver loop der henter information fra de andre klasser
+
+
+PlayerClass
+    Scanner
+        læser User input
+        returnerer user input
+
+
+
+GameClass
+    opretter random
+
+
+
+
