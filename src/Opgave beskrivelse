@@ -23,7 +23,7 @@ Starting the program
 Creating objects
 Running the game loop
 
-2️⃣ Game class
+2️⃣ Game class // jenny
 Responsible for:
 Generating a random number
 Checking whether the guess is correct
