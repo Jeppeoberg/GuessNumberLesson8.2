@@ -6,7 +6,7 @@
  * - Returning feedback ("Too high", "Too low", "Correct!")
  */
 
-public class Game {
+public class GameClass {
 
     // Variable to store the secret number
     private int secretNumber;
