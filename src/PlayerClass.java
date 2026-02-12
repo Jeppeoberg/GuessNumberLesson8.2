@@ -1,5 +1,5 @@
 public class PlayerClass {
-    //Morten
+    //Jenny
 
 }
 //3️⃣ Player class
